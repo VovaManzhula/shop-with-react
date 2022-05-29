@@ -1,0 +1,32 @@
+.shop-bg {
+  background-color: rgba(1, 1, 1, 0.1);
+  border: 3px solid teal;
+  border-radius: 50px;
+  min-height: 800px;
+}
+.Main-container {
+  padding: 25px 25px 25px 25px;
+}
+.add-btn{
+  position: sticky;
+  top: 5px;
+  z-index: 19919;
+}
+.form-control{
+  margin-top: 15px;
+}
+.card{
+  height: 600px;
+}
+.description{
+
+  max-height: 100px;
+   text-overflow: ellipsis " [..]";
+  overflow: hidden;
+ 
+
+}
+.dialog-span{
+  margin: auto;
+  color: red;
+}

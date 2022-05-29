@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "automatic dumbbell",
+      "price": "200",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqtwEtNV7qZLiEkhWiFKTW4fbwFe2rnkBrpA&usqp=CAU",
+      "count": "0",
+      "description": "3, 7, 11, 15, 20 kg",
+      "weight": "22",
+      "size": {
+        "height": "50",
+        "width": "200"
+      }
+    },
+    {
+      "title": "МОТОБЛОК FORTE 80-МС (СИНИЙ) ",
+      "price": "700",
+      "image": "https://am.ua/images/ab__webp/thumbnails/626/587/detailed/169/forte-80-ms-siniy_wf_jpg.webp",
+      "count": "1",
+      "description": "Компактный и мощный бензиновый культиватор FORTE 80-МС (синий) принадлежит к бытовому классу агрегатов и предназначается для обработки или культивации почвы на глубину от 150 до 250 мм и шириной от 300 до 900 миллиметров. Поставляется с гарантией от производителя на 12 месяцев в комплекте с рычагом упора, почвофрезой и колесами.\n\n",
+      "weight": "150",
+      "size": {
+        "height": "800",
+        "width": "600"
+      },
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "nice",
+      "postId": 1
+    }
+  ]
+}
