@@ -11,11 +11,7 @@ function postReducer(state = initialState, action) {
         posts:action.payload
    
     };
- case "WINDOW_CLOSED":
-   return{
-     ...state,
-     isOpen:action.payload
-   }
+ 
     default:
       return state;
   }
